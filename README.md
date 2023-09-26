@@ -4,7 +4,7 @@
 
 ![10](https://github.com/aliasghardev/project2/assets/144837096/ad84e4fa-600f-452c-b442-c63bef487281)
 
-- [Demo Project](https://aliasghardev.github.io/project1/)
+- [Demo Project](https://aliasghardev.github.io/project2/)
 
 - Developed by aliasghar gholami
 
