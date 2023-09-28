@@ -10,7 +10,7 @@
 
 - Created - 2023/09/26
 
-- Technologies Used - Html , css 
+- Technologies Used - Html , css , scss
 
 - Hooks Used : useState 
 
